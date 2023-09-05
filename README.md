@@ -1,4 +1,4 @@
-### Hi👋 & Welcome to my little Profile (●'◡'●)
+### Hi👋 & Welcome to My Little Profile (●'◡'●)
 
 <!--
 **HackwithArpon/HackWithArpon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
